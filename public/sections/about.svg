@@ -1,0 +1,15 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2d6cdf" />
+      <stop offset="100%" stop-color="#9559d4" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" rx="40" fill="url(#g1)" />
+  <circle cx="180" cy="180" r="120" fill="rgba(255,255,255,0.12)" />
+  <circle cx="620" cy="220" r="140" fill="rgba(255,255,255,0.08)" />
+  <path d="M160 420 C240 320 360 520 460 420 C560 320 680 520 760 420" stroke="#ffffff" stroke-width="24" fill="none" opacity="0.8" />
+  <path d="M220 240 L300 170 L380 240" stroke="#ffffff" stroke-width="18" fill="none" opacity="0.9" />
+  <path d="M420 190 C470 120 530 120 580 190" stroke="#ffffff" stroke-width="18" fill="none" opacity="0.9" />
+  <text x="400" y="520" text-anchor="middle" font-family="Inter, sans-serif" font-size="52" font-weight="700" fill="#ffffff">About AI</text>
+</svg>
