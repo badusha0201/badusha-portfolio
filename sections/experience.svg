@@ -1,0 +1,17 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34495e" />
+      <stop offset="100%" stop-color="#2c3e50" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" rx="40" fill="url(#g4)" />
+  <path d="M180 120 C260 80 340 140 420 120 C500 100 580 160 660 120" stroke="#ffffff" stroke-width="18" fill="none" opacity="0.8" />
+  <circle cx="200" cy="240" r="48" fill="#ffffff" opacity="0.12" />
+  <circle cx="400" cy="320" r="58" fill="#ffffff" opacity="0.12" />
+  <circle cx="620" cy="240" r="48" fill="#ffffff" opacity="0.12" />
+  <path d="M200 240 V420" stroke="#ffffff" stroke-width="12" opacity="0.8" />
+  <path d="M400 320 V500" stroke="#ffffff" stroke-width="12" opacity="0.8" />
+  <path d="M620 240 V420" stroke="#ffffff" stroke-width="12" opacity="0.8" />
+  <text x="400" y="560" text-anchor="middle" font-family="Inter, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Experience</text>
+</svg>

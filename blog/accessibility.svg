@@ -1,0 +1,14 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="blog3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2c3e50" />
+      <stop offset="100%" stop-color="#4ca1af" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#blog3)" />
+  <rect x="240" y="180" width="720" height="320" rx="60" fill="#ffffff" opacity="0.08" />
+  <path d="M360 300 H840" stroke="#ffffff" stroke-width="16" opacity="0.8" />
+  <circle cx="420" cy="400" r="50" fill="#ffffff" opacity="0.12" />
+  <circle cx="780" cy="400" r="50" fill="#ffffff" opacity="0.12" />
+  <text x="600" y="520" text-anchor="middle" font-family="Inter, sans-serif" font-size="64" fill="#ffffff">Accessible AI</text>
+</svg>

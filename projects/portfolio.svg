@@ -1,0 +1,20 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a2b72" />
+      <stop offset="100%" stop-color="#4b6cb7" />
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#43cea2" />
+      <stop offset="100%" stop-color="#185a9d" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" rx="40" fill="url(#g1)" />
+  <circle cx="220" cy="160" r="110" fill="rgba(255,255,255,0.12)" />
+  <circle cx="560" cy="220" r="150" fill="rgba(255,255,255,0.08)" />
+  <rect x="140" y="360" width="520" height="160" rx="30" fill="url(#g2)" opacity="0.9" />
+  <path d="M220 130 Q300 80 380 120 T500 130" stroke="#ffffff" stroke-width="12" fill="none" opacity="0.7" />
+  <path d="M320 430 L400 330 L480 430" stroke="#ffffff" stroke-width="10" fill="none" opacity="0.9" />
+  <text x="400" y="310" text-anchor="middle" font-family="Inter, sans-serif" font-size="54" font-weight="700" fill="#ffffff">AI Portfolio</text>
+  <text x="400" y="380" text-anchor="middle" font-family="Inter, sans-serif" font-size="24" fill="#e0f7ff" opacity="0.9">Smart visuals for modern projects</text>
+</svg>
